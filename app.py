@@ -7,7 +7,7 @@ import cv2
 app = Flask(__name__)
 api = Api(app)
 app.config['TEMPLATES_AUTO_RELOAD'] = True
-imSavePath = "./static/images"
+imSavePath = "./"
 
 
 def processImage():
