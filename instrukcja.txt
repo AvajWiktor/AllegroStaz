@@ -1,0 +1,8 @@
+Serwis został stworzony przy użyciu frameworka Flask, w zipie załączony został kod aplikacji
+oraz prosty plik .html zawierający stronę do wgrywania obrazka, cały projekt wraz z bibliotekami i potrzebnymi plikami
+wrzuciłem na gitHuba z racji na rozmiar (~200MB) link -  https://github.com/AvajWiktor/AllegroStaz
+
+W celu uruchomienia aplikacji należy zainstalować odpowiednie biblioteki widoczne w sekcji "import" 
+i uruchomić projekt w IDE
+
+Serwis dostępny będzie defaultowo pod http://127.0.0.1:5000/rotate
